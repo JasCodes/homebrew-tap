@@ -7,5 +7,5 @@ cask "app-cleaner-pro" do
   desc ""
   homepage ""
 
-  app ""
+  app "App Cleaner & Uninstaller.pro"
 end

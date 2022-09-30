@@ -7,5 +7,5 @@ cask "sound-source" do
   desc ""
   homepage ""
 
-  app ""
+  app "SoundSource.app"
 end

@@ -1,4 +1,4 @@
-cask "app-clearner-pro" do
+cask "app-cleaner-pro" do
   version "7.8.2"
   sha256 "f0cc24ea3c173d7cc7f3d9efb6ec8114daf25d7434c34e81985cca36b7d4ab90"
 

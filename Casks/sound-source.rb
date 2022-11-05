@@ -1,6 +1,6 @@
 cask "sound-source" do
   version "5.5.5"
-  sha256 "bc4a37657fcb9583efc798d3e7cc7a47f59f3d95f540fad4d8aa36091f490333"
+  sha256 "0673a19540c13fbfe134ad7885eb45223ddfc95f1aaf9d89891a610d9e524cbf"
 
   url "https://dmg.s3.nl-ams.scw.cloud/SoundSource_#{version}.dmg"
   name "sound-source"

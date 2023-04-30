@@ -1,6 +1,6 @@
 cask "jc-sound-source" do
-  version "5.5.6"
-  sha256 "5855423ba9001157d2e6c527cba524731f2d3b6119c496667424c4701e56b368"
+  version "5.5.7"
+  sha256 "a3c667712db81f2d0a14f7c6674d2c56442326e28d3c843b3d8c12214068e84b"
 
   url "https://dmg.s3.nl-ams.scw.cloud/SoundSource_#{version}.dmg"
   name "jc-sound-source"

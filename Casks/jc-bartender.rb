@@ -1,6 +1,6 @@
 cask "jc-bartender" do
-  version "4.2.11"
-  sha256 "c2252a2613e15f0c0d6f4e129fb5beb841165b0148d2a0490b948c50b06033b2"
+  version "4.2.21"
+  sha256 "eaad4b775228325c6da5883b2c7a1f1c388e8255bec0cb11aaa515d98e052e36"
 
   url "https://dmg.s3.nl-ams.scw.cloud/Bartender_#{version}.dmg"
   name "jc-bartender"
